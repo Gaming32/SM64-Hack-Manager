@@ -1,0 +1,18 @@
+c:\users\josia\documents\visual studio 2015\Projects\SM64 Hack Manager\SM64 Hack Manager\bin\Debug\SM64 Hack Manager.exe.config
+C:\Users\josia\documents\visual studio 2015\Projects\SM64 Hack Manager\SM64 Hack Manager\obj\Debug\SM64 Hack Manager.csprojResolveAssemblyReference.cache
+C:\Users\josia\documents\visual studio 2015\Projects\SM64 Hack Manager\SM64 Hack Manager\obj\Debug\SM64_Hack_Manager.Form1.resources
+C:\Users\josia\documents\visual studio 2015\Projects\SM64 Hack Manager\SM64 Hack Manager\obj\Debug\SM64_Hack_Manager.Properties.Resources.resources
+C:\Users\josia\documents\visual studio 2015\Projects\SM64 Hack Manager\SM64 Hack Manager\obj\Debug\SM64 Hack Manager.csproj.GenerateResource.Cache
+C:\Users\josia\documents\visual studio 2015\Projects\SM64 Hack Manager\SM64 Hack Manager\bin\Debug\SM64 Hack Manager.exe
+C:\Users\josia\documents\visual studio 2015\Projects\SM64 Hack Manager\SM64 Hack Manager\bin\Debug\SM64 Hack Manager.pdb
+C:\Users\josia\documents\visual studio 2015\Projects\SM64 Hack Manager\SM64 Hack Manager\obj\Debug\SM64 Hack Manager.exe
+C:\Users\josia\documents\visual studio 2015\Projects\SM64 Hack Manager\SM64 Hack Manager\obj\Debug\SM64 Hack Manager.pdb
+C:\Users\josia\MEGA\Visual Studio Projects\SM64 Hack Manager\SM64 Hack Manager\bin\Debug\SM64 Hack Manager.exe.config
+C:\Users\josia\MEGA\Visual Studio Projects\SM64 Hack Manager\SM64 Hack Manager\obj\Debug\SM64 Hack Manager.exe
+C:\Users\josia\MEGA\Visual Studio Projects\SM64 Hack Manager\SM64 Hack Manager\obj\Debug\SM64 Hack Manager.pdb
+C:\Users\josia\MEGA\Visual Studio Projects\SM64 Hack Manager\SM64 Hack Manager\bin\Debug\SM64 Hack Manager.exe
+C:\Users\josia\MEGA\Visual Studio Projects\SM64 Hack Manager\SM64 Hack Manager\bin\Debug\SM64 Hack Manager.pdb
+C:\Users\josia\MEGA\Visual Studio Projects\SM64 Hack Manager\SM64 Hack Manager\obj\Debug\SM64 Hack Manager.csprojResolveAssemblyReference.cache
+C:\Users\josia\MEGA\Visual Studio Projects\SM64 Hack Manager\SM64 Hack Manager\obj\Debug\SM64_Hack_Manager.Form1.resources
+C:\Users\josia\MEGA\Visual Studio Projects\SM64 Hack Manager\SM64 Hack Manager\obj\Debug\SM64_Hack_Manager.Properties.Resources.resources
+C:\Users\josia\MEGA\Visual Studio Projects\SM64 Hack Manager\SM64 Hack Manager\obj\Debug\SM64 Hack Manager.csproj.GenerateResource.Cache
